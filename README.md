@@ -1,6 +1,6 @@
 # Location Assessment Tool for Aritzia Stores
 
-This project includes several Python scripts that analyze different factors for evaluating the suitability of potential retail store locations for Aritzia and its brands (TNA, Babaton, Wilfred). The analysis incorporates accessibility, competition, safety, customer traffic, and technology infrastructure. Below is a description of each script and its functionality.
+This project includes several Python scripts that analyze different factors for evaluating the suitability of potential retail store locations for Aritzia and its brands (TNA, Babaton, Wilfred). The analysis incorporates accessibility, competition, safety, customer traffic, and technology infrastructure. This project integrates HTML, CSS, JavaScript, and AJAX on the front end, with a Flask server handling the back end to provide a seamless and dynamic user experience. Below is a description of each main python script and its functionality. 
 
 ---
 
